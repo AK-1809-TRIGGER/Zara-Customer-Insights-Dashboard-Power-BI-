@@ -52,7 +52,6 @@ Power BI Desktop, Power Query, Excel
 - `/data`: source dataset
 
 ## Screenshots
-![Overview](images/page1_overview.png)
-![Spending](images/page2_spending.png)
-![Loyalty and Risk](images/page3_loyalty.png)
-![Experience](images/page4_experience.png)
+<img width="1331" height="775" alt="image" src="https://github.com/user-attachments/assets/7506a205-6cfd-4720-8c48-43ac035fadcd" />
+
+<img width="1356" height="782" alt="image" src="https://github.com/user-attachments/assets/1f481298-6376-4d98-af28-7e8359315def" />
